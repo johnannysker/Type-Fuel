@@ -1,3 +1,4 @@
+<img src="https://raw.githubusercontent.com/johnannysker/Type-Fuel/main/assets/Tela%20do%20app/Tela_app.png"/>
 # type_fuel
 
 A new Flutter project.
